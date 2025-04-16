@@ -268,7 +268,7 @@
                 Autonomous Decision Making
               </h3>
               <p className="text-sm text-gray-700">
-                The Mineral Exploration Agent operates as an autonomous decision-making entity that processes geological data,
+                The Mineral Exploration System operates as an autonomous decision-making entity that processes geological data,
                 performs multi-step reasoning, and makes strategic recommendations without human intervention.
               </p>
             </div>
