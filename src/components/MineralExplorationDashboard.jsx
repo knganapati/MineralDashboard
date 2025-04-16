@@ -335,7 +335,7 @@
                 <div className="absolute left-2.5 w-3 h-3 rounded-full bg-purple-500"></div>
                 <div className="p-3 bg-purple-50 rounded-md">
                   <div className="font-medium">1. Context Creation</div>
-                  <p className="text-sm text-gray-700">The agent processes input data to create a comprehensive geological context for reasoning.</p>
+                  <p className="text-sm text-gray-700">The Neurons Ai System processes input data to create a comprehensive geological context for reasoning.</p>
                 </div>
               </div>
   
@@ -351,7 +351,7 @@
                 <div className="absolute left-2.5 w-3 h-3 rounded-full bg-purple-500"></div>
                 <div className="p-3 bg-purple-50 rounded-md">
                   <div className="font-medium">3. Deposit Type Analysis</div>
-                  <p className="text-sm text-gray-700">The agent evaluates evidence to determine the most probable deposit type with alternatives.</p>
+                  <p className="text-sm text-gray-700">The Neurons AI System evaluates evidence to determine the most probable deposit type with alternatives.</p>
                 </div>
               </div>
   
@@ -367,7 +367,7 @@
                 <div className="absolute left-2.5 w-3 h-3 rounded-full bg-purple-500"></div>
                 <div className="p-3 bg-purple-50 rounded-md">
                   <div className="font-medium">5. Exploration Strategy</div>
-                  <p className="text-sm text-gray-700">The agent determines optimal drilling, surveys, sampling, and prioritizes actions.</p>
+                  <p className="text-sm text-gray-700">The Neurons AI System determines optimal drilling, surveys, sampling, and prioritizes actions.</p>
                 </div>
               </div>
   
